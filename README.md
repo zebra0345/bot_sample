@@ -1,6 +1,6 @@
 # bot_sample
 
-![image](https://github.com/user-attachments/assets/e340886a-ca21-41a6-86bc-b096dfac2e3b)
+![alt text](image.png)
 
 - 봇 샘플 코드들입니다.
 - 실제 배포중이라 service로직은 공개하지 않았습니다.
